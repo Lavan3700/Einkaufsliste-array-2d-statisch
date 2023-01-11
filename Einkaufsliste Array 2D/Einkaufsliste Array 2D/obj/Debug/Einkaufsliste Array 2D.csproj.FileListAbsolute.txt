@@ -1,0 +1,8 @@
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\Einkaufsliste Array 2D\Einkaufsliste Array 2D\obj\Debug\Einkaufsliste Array 2D.csproj.AssemblyReference.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\Einkaufsliste Array 2D\Einkaufsliste Array 2D\obj\Debug\Einkaufsliste Array 2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\Einkaufsliste Array 2D\Einkaufsliste Array 2D\obj\Debug\Einkaufsliste Array 2D.csproj.CoreCompileInputs.cache
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\Einkaufsliste Array 2D\Einkaufsliste Array 2D\bin\Debug\Einkaufsliste Array 2D.exe.config
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\Einkaufsliste Array 2D\Einkaufsliste Array 2D\bin\Debug\Einkaufsliste Array 2D.exe
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\Einkaufsliste Array 2D\Einkaufsliste Array 2D\bin\Debug\Einkaufsliste Array 2D.pdb
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\Einkaufsliste Array 2D\Einkaufsliste Array 2D\obj\Debug\Einkaufsliste Array 2D.exe
+C:\Users\Lavan\OneDrive - gibb Berufsfachschule Bern\Einkaufsliste Array 2D\Einkaufsliste Array 2D\obj\Debug\Einkaufsliste Array 2D.pdb
